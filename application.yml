@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/SpringCloud_Sell/config-repo
+          uri: https://github.com/zhujie616/my-config-repo.git
           username: zhujie616
           password: 123456
 eureka:
